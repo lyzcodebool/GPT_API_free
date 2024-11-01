@@ -1,6 +1,4 @@
-<div align="center">
-<img src="./images/logo.png" alt="icon" width="50px"/>
-<h1 align="center">GPT-API-free</h1>
+
 支持 ChatGPT全模型 / Midjourney / Claude / Suno / Luma /DALL·E / 国内外其他大模型300+ 
   
 国内动态加速 直连无需代理
